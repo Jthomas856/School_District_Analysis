@@ -46,8 +46,29 @@ The school summary remained largely unchanged except for the data for Thomas Hig
 
 Thomas High School still remained in the top performing schools after dropping the 9th grade math and reading scores.
 
-### Scores by Grade
+## Summary
 
-<img width="296" alt="Scores_by_grade" src="https://user-images.githubusercontent.com/89098766/135552361-20d6ad0d-8468-40eb-8ef7-102d626a6df3.png">
+The updated school district analysis was affected in the following ways:
+
+<img width="315" alt="Math_scores by grade" src="https://user-images.githubusercontent.com/89098766/135722935-fd7db325-d054-4d42-9f9a-7533538df3b8.png">
+
+- The only impact to the scores by grade were that 9th grade at Thomas High School showed a NAN for math and reading. All other schools and grades remained unchanged.
+
+<img width="864" alt="Scores_by_spending" src="https://user-images.githubusercontent.com/89098766/135722969-088091cc-e861-45aa-b3f9-9948b7c05798.png">
+
+- Scores by spending increased for the $585-629 and $630-644 categories.
+
+<img width="792" alt="scores_by_school_size" src="https://user-images.githubusercontent.com/89098766/135723162-83a905cc-7ae3-4c67-878b-113fec599970.png">
+
+- Scores by school size remained unchanged.
+
+<img width="726" alt="scores_by_school_type" src="https://user-images.githubusercontent.com/89098766/135723192-2eacdb6f-6ddf-4a8f-812f-2cbca1908f02.png">
+
+- Scores by school type remained unchaged.
+
+
+ 
+
+
 
 
